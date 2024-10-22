@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Gel Pen",
+    "description": "A smooth-writing gel pen in blue ink.",
+    "image": "gelpen.jpg",
+    "price": 15
+  },
+  {
+    "name": "Notebook",
+    "description": "A spiral-bound notebook with 100 pages.",
+    "image": "notebook.jpg",
+    "price": 50
+  },
+  {
+    "name": "Sticky Notes",
+    "description": "A pack of colorful sticky notes for reminders.",
+    "image": "stickynotes.jpg",
+    "price": 25
+  },
+  {
+    "name": "Highlighter",
+    "description": "A set of neon-colored highlighters.",
+    "image": "highlighter.jpg",
+    "price": 35
+  },
+  {
+    "name": "Colored Pencils",
+    "description": "A box of 12 vibrant colored pencils.",
+    "image": "coloredpencils.jpg",
+    "price": 30
+  },
+  {
+    "name": "Eraser",
+    "description": "A soft eraser that removes pencil marks cleanly.",
+    "image": "eraser.jpg",
+    "price": 10
+  },
+  {
+    "name": "Paper Clips",
+    "description": "A pack of 100 metal paper clips.",
+    "image": "paperclips.jpg",
+    "price": 15
+  },
+  {
+    "name": "Scissors",
+    "description": "A pair of sharp, stainless steel scissors.",
+    "image": "scissors.jpg",
+    "price": 40
+  },
+  {
+    "name": "Ruler",
+    "description": "A 12-inch transparent plastic ruler.",
+    "image": "ruler.jpg",
+    "price": 15
+  },
+  {
+    "name": "Glue Stick",
+    "description": "A non-toxic glue stick for paper crafts.",
+    "image": "gluestick.jpg",
+    "price": 25
+  }
+]
